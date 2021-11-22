@@ -1,0 +1,15 @@
+Name of Quantlet: EPF
+
+Published in: ''
+
+Description: 'Hybrid model for Electricity Price Forecasting EPF'
+
+Keywords: 'Electricity Price Forecasting, Machine Learning models, Statistical methods, data decomposition, Accuracy'
+
+Author: 'Souhir Ben Amor'
+
+See also: ''
+
+Submitted:  '10.10.2021'
+
+Additional Info : ''
