@@ -9,7 +9,7 @@ Name of Quantlet: EPF
 
 Published in: Amfiteatru Economic, 25(63), 463-478
 
-Description: Hybrid SARIMA/NeuroFuzzy-LLWNN model for Electricity Price Forecasting
+Description: Hybrid SARIMA/NeuroFuzzy-LLWNN model for Electricity Price Forecasting on Germany spot market. Uses EEMD decomposition to separate regular and irregular components, then applies SARIMA to regular IMFs and NeuroFuzzy-LLWNN to irregular IMFs. Original code was done on Matlab Cloud
 
 Keywords: Electricity Price Forecasting, SARIMA, NeuroFuzzy, LLWNN, EEMD, hybrid model, time series, spot market
 
